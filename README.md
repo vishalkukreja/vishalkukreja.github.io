@@ -1,4 +1,7 @@
-# Website Still construction
+# Website Still under construction
+
+[Vishal's Web](https://vishalkukreja.github.io)
+--
 
 Thanks to Shikherverma.github.io
 
@@ -7,4 +10,4 @@ Jekyll blog based on [Clean Blog](http://startbootstrap.com/template-overviews/c
 
 Copyright vishalkukreja.  
 All rights reserved for the content data under `_posts`, `_portfolio` and `_images`, the rest of the 
-Code is released under the [MIT] license.
+Code is released under the [MIT]() license.
